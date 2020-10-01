@@ -1,2 +1,2 @@
-# Angry-birds-C-28
-Made somewhat of a slingshot.
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
